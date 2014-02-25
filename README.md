@@ -10,7 +10,12 @@ Try out the sample application [on the Android Market][10].
 
 These widgets can also be used in conjunction with [ActionBarSherlock][3]!
 
+Gradle
+======
+Use gradle wrapper to install the .aar to local maven repository.
 
+	cd library
+	./gradlew install
 
 Usage
 =====
